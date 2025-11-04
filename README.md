@@ -1,5 +1,5 @@
 # enable-cloudwatch-monitoring-for-ec2
-![Alt text](image_url)
+![Alt text](https://github.com/Naveen15github/enable-cloudwatch-monitoring-for-ec2/blob/a09505ae7b1b0ef6e553e7bb6ca8e74dfb94ace4/Amazon-CloudWatch.jpg)
 
 In this task, I enabled Amazon CloudWatch monitoring for an existing EC2 instance to track and visualize key system performance metrics such as CPU utilization, memory usage, disk activity, and network I/O.
 CloudWatch helps monitor system health, optimize performance, and troubleshoot issues in real time.
@@ -43,6 +43,7 @@ Added widgets for CPU, Memory, Disk, and Network I/O graphs.
 This helps visualize instance performance in real time.
 
 ## 📊 Output
+![Alt text](https://github.com/Naveen15github/enable-cloudwatch-monitoring-for-ec2/blob/a09505ae7b1b0ef6e553e7bb6ca8e74dfb94ace4/Screenshot%20(108).png)
 
 CloudWatch dashboard now displays real-time EC2 performance metrics.
 
